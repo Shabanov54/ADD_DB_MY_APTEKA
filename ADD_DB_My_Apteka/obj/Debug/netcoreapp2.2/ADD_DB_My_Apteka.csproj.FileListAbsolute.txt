@@ -1,0 +1,10 @@
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\bin\Debug\netcoreapp2.2\ADD_DB_My_Apteka.deps.json
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\bin\Debug\netcoreapp2.2\ADD_DB_My_Apteka.runtimeconfig.json
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\bin\Debug\netcoreapp2.2\ADD_DB_My_Apteka.runtimeconfig.dev.json
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\bin\Debug\netcoreapp2.2\ADD_DB_My_Apteka.dll
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\obj\Debug\netcoreapp2.2\ADD_DB_My_Apteka.AssemblyInfoInputs.cache
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\obj\Debug\netcoreapp2.2\ADD_DB_My_Apteka.AssemblyInfo.cs
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\bin\Debug\netcoreapp2.2\ADD_DB_My_Apteka.pdb
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\obj\Debug\netcoreapp2.2\ADD_DB_My_Apteka.dll
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\obj\Debug\netcoreapp2.2\ADD_DB_My_Apteka.pdb
+C:\C#\ADD_DB_My_Apteka\ADD_DB_My_Apteka\obj\Debug\netcoreapp2.2\ADD_DB_My_Apteka.csprojAssemblyReference.cache
